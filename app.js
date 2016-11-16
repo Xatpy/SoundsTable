@@ -67,8 +67,13 @@ function createButton(text, urlSound) {
 	debugger
 	var link = document.createElement('a');
 	link.textContent = text;
-	link.href = urlSound;
 	link.id = "button";
+	link.onclick = function() {
+		console.log("aaaaaa");
+		var audio = new Audio(urlSound)
+		audio.load();
+		audio.play();
+	}
 	return link;
 }
 

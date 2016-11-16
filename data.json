@@ -3,11 +3,15 @@
 	"sounds" : [
 		{ 
 			"text" : "hola" ,
-			"soundURL" : "hhhh"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/sounds/beep.mp3"
 		}, 
 		{ 
 			"text" : "adios" ,
-			"soundURL" : "hhhh"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/sounds/beep.mp3"
+		},
+		{
+			"text" : "bubbles",
+			"soundURL" : "http://www.sounds.beachware.com/2illionzayp3may/thjopulz/PUMP.mp3"
 		}
 	]
 }
