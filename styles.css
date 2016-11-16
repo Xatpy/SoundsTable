@@ -6,7 +6,7 @@ html {
   background-size: cover;
 }
 
-header {
+h1 {
 	font-family: 'Lobster', cursive;
     display: flex;
     justify-content: center;
@@ -60,7 +60,7 @@ a#button {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  padding: 40px 9px 0 0;
+  padding: 30px 5px 0 0;
   cursor: pointer;
   -webkit-transition: all 0.1s ease;
   -moz-transition: all 0.1s ease;

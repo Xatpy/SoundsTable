@@ -1,4 +1,13 @@
 {
-	"a": "b",
-	"c" : "d"
+	"title": "La Vida Moderna",
+	"sounds" : [
+		{ 
+			"text" : "hola" ,
+			"soundURL" : "hhhh"
+		}, 
+		{ 
+			"text" : "adios" ,
+			"soundURL" : "hhhh"
+		}
+	]
 }

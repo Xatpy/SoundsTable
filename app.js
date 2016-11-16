@@ -1,9 +1,20 @@
 window.onload = function() {
-	loadJSON('data.json',
-         function(data) { console.log(data); },
-         function(xhr) { console.error(xhr); }
+	dataURL = location.search.split('data=')[1];
+	if (dataURL === undefined) {
+		dataURL = "data.json";
+	}
+
+	loadJSON(dataURL,
+    	function(data) {
+    		console.log(data); 
+    		parseData(data);
+    	},
+    	function(xhr) { 
+    		console.error("Error: " + xhr); 
+    	}
 	);
-	createButtons();
+	
+	//createButtons();
 };
 
 function loadJSON(path, success, error)
@@ -25,11 +36,46 @@ function loadJSON(path, success, error)
     xhr.send();
 }
 
+function verifySound(sound) {
+	if (sound.text !== undefined && sound.soundURL !== undefined) {
+		return true;
+	}
+	return false;
+}
+
+function parseData(data) {
+	var title = data.title;
+	if (title !== undefined) {
+		document.getElementById("head").innerHTML = title;
+	}
+
+	var sounds = data.sounds;
+	if (sounds !== undefined) {
+		var parentNode = document.getElementById("content");
+		for (var i = 0; i < data.sounds.length; ++i) {
+			if (verifySound(data.sounds[i])) {
+				var innerDiv = document.createElement('div');
+				var button = createButton(data.sounds[i].text, data.sounds[i].soundURL);
+				innerDiv.appendChild(button);
+				parentNode.appendChild(innerDiv);
+			}			
+		}
+	}
+}
+
+function createButton(text, urlSound) {
+	debugger
+	var link = document.createElement('a');
+	link.textContent = text;
+	link.href = urlSound;
+	link.id = "button";
+	return link;
+}
+
 function createButtons(){ 
 
 	for (var i = 0; i < 100; ++i) {
 		var parentNode = document.getElementById("content");
-
 		var innerDiv = document.createElement('div');
 
 		var link = document.createElement('a');
