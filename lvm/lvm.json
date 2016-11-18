@@ -12,6 +12,10 @@
 		{
 			"text" : "Ser moderno hoy",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/serModernoHoy.mp3"
+		},
+		{
+			"text" : "All Right",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/allRight.mp3"
 		}
 	]
 }

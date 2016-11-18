@@ -1,7 +1,7 @@
 window.onload = function() {
 	dataURL = location.search.split('data=')[1];
 	if (dataURL === undefined) {
-		dataURL = "data.json";
+		dataURL = "lvm/lvm.json";
 	}
 
 	loadJSON(dataURL,
