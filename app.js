@@ -64,7 +64,6 @@ function parseData(data) {
 }
 
 function createButton(text, urlSound) {
-	debugger
 	var link = document.createElement('a');
 	link.textContent = text;
 	link.id = "button";

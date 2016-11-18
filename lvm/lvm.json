@@ -14,8 +14,28 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/serModernoHoy.mp3"
 		},
 		{
-			"text" : "All Right",
+			"text" : "\nAll Right",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/allRight.mp3"
+		},
+		{
+			"text" : "\nLa Review",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/laReview.mp3"
+		},
+		{
+			"text" : "\n¡¡¡Siii!!!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/siii.mp3"
+		},
+		{
+			"text" : "\n¡¡¡UPyD!!!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/upydNo.mp3"
+		},
+		{
+			"text" : "Una lección de humildad",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/unaLeccionDeHumildad.mp3"
+		},
+		{
+			"text" : "Choque de pre",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/choqueDePre.mp3"
 		}
 	]
 }
