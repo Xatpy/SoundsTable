@@ -1,10 +1,10 @@
 html { 
-  background: url(images/highRes.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-font-family: 'Lobster', cursive;
+	background: url(images/highRes.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Lobster', cursive;
 }
 
 h1 {
@@ -13,6 +13,7 @@ h1 {
     align-items: center; /* align vertical */
     font-size: 12.5vh;
     text-shadow: 2px 2px 2px white;
+    text-align: center;
     margin: 10px;
 }
 

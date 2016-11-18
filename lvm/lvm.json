@@ -1,0 +1,17 @@
+{
+	"title": "La Vida Moderna",
+	"sounds" : [
+		{ 
+			"text" : "La Vida Moderna Es" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/laVidaModernaEs.mp3"
+		}, 
+		{ 
+			"text" : "Grito Cabrero" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/gritoCabrero.mp3"
+		},
+		{
+			"text" : "Ser moderno hoy",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/serModernoHoy.mp3"
+		}
+	]
+}
