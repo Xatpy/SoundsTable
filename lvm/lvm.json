@@ -52,6 +52,34 @@
 		{
 			"text": "Parecía que sí",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/pareciaQueSi.mp3"
+		},
+		{
+			"text": "La reflexió",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/laReflexio.mp3"
+		},
+		{
+			"text": "¿Y qué hay en Ifema?",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/yQueHayEnIfema.mp3"
+		},
+		{
+			"text": "Nos han dado un CD por la calle",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/nosHanDadoUnCDPorLaCalle.mp3"
+		},
+		{
+			"text": "A pijo sacao",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/aPijoSacao.mp3"
+		},
+		{
+			"text": "Riki diki show",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/rikiDikiShow.mp3"
+		},
+		{
+			"text": "La transformasió",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/laTransformasio.mp3"
+		},
+		{
+			"text": "El castellano",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/elCastellano.mp3"
 		}
 	]
 }
