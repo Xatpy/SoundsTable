@@ -61,13 +61,18 @@ a#button {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  padding: 25px 5px 0 0;
+  padding: -3px 5px 0 0;
   cursor: pointer;
   -webkit-transition: all 0.1s ease;
   -moz-transition: all 0.1s ease;
   -o-transition: all 0.1s ease;
   -ms-transition: all 0.1s ease;
   transition: all 0.1s ease;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5vw;
 }
 a#button:before {
   content: " ";
@@ -91,4 +96,77 @@ a#button:active {
   -webkit-box-shadow: inset 0 0 20px rgba(0,0,0,0.5);
   box-shadow: inset 0 0 20px rgba(0,0,0,0.5);
   color: #ffeded;
+}
+
+
+/* ----- MEDIA QUERIES ------ */
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+  html { 
+    background: url(images/icon.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  html { 
+    background: url(images/highRes.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h1 {
+    font-size: 7.5vh;
+  }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+  html { 
+    background: url(images/highRes.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h1 {
+    font-size: 5vh;
+  }
+
+  #content div {
+    width: 100px;
+    height: 125px;
+  }
+
+  a#button {
+    font-size: 3vw;
+    width: 60px;
+    height: 60px;
+    padding: 0px 5px 0 0;
+    margin: -50px 0 0 -25px;
+  }
+
+  a#button:before {
+    width: 100px;
+    height: 100px;
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
+    top: -15px;
+    left: -20px;
+    -webkit-box-shadow: inset 0 7px 15px rgba(255,255,255,0.5), inset 0 -7px 15px rgba(0,0,0,0.5);
+    box-shadow: inset 0 7px 15px rgba(255,255,255,0.5), inset 0 -7px 15px rgba(0,0,0,0.5);
+  }
 }

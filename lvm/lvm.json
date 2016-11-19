@@ -36,6 +36,22 @@
 		{
 			"text" : "Choque de pre",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/choqueDePre.mp3"
+		},
+		{
+			"text": "La indignació",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/laIndignacio.mp3"
+		},
+		{
+			"text": "El rancius",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/elRancius.mp3"
+		},
+		{
+			"text": "Lo rural",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/loRural.mp3"
+		},
+		{
+			"text": "Parecía que sí",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/pareciaQueSi.mp3"
 		}
 	]
 }
