@@ -1,17 +1,9 @@
 {
-	"title": "La Vida Moderna",
+	"title": "# Sounds table #",
 	"sounds" : [
 		{ 
-			"text" : "hola" ,
+			"text" : "beep" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/sounds/beep.mp3"
-		}, 
-		{ 
-			"text" : "adios" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/sounds/beep.mp3"
-		},
-		{
-			"text" : "bubbles",
-			"soundURL" : "http://www.sounds.beachware.com/2illionzayp3may/thjopulz/PUMP.mp3"
 		}
 	]
 }
