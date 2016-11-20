@@ -1,17 +1,16 @@
 // Variable
 var listAudios = [];
 
-window.onload = function() {
+function initApp(dataInfo) {
+	initApp()
 	dataURL = location.search.split('data=')[1];
 	if (dataURL === undefined) {
-		dataURL = "lvm/lvm.json";
+		dataURL = dataInfo;
 	}
 
 	loadJSON(dataURL,
     	function(data) {
-    		console.log("empezamos"); 
     		parseData(data);
-    		console.log("fin");
     	},
     	function(xhr) { 
     		console.error("Error: " + xhr); 
