@@ -174,7 +174,8 @@ a.button:active {
   }
 
   #share {
-    margin-top: 25px;
+    margin-top: 27px;
+    margin-bottom: 15px;
   }
 
   #content div {
@@ -183,8 +184,8 @@ a.button:active {
   }
 
   .logo {
-    width: 28px;
-    height: 28px;
+    width: 30px;
+    height: 230x;
   }
 
   a.button {
