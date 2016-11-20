@@ -54,6 +54,14 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laTransformasio.mp3"
 		},
 		{
+			"text": "La promosió",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laPromosio.mp3"
+		},
+		{
+			"text": "La humillasió",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laHumillasio.mp3"
+		},
+		{
 			"text" : "Ser moderno hoy",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/serModernoHoy.mp3"
 		},
@@ -64,6 +72,10 @@
 		{
 			"text": "Nos han dado un CD por la calle",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/nosHanDadoUnCDPorLaCalle.mp3"
+		},
+		{
+			"text": "Mimimimi",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/mimimimi.mp3"
 		},
 		{
 			"text" : "\nAll Right",
@@ -82,8 +94,16 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/choqueDePre.mp3"
 		},
 		{
+			"text" : "Fascismo del bueno",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/fascismoDelBueno.mp3"
+		},
+		{
 			"text": "Riki diki show",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/rikiDikiShow.mp3"
+		},
+		{
+			"text": "Pídeselo a Quequé",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/pideseloAQueque.mp3"
 		}
 	]
 }
