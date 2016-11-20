@@ -54,7 +54,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 27px;
+    margin-top: 29px;
     margin-right: 45px;
 }
 
@@ -175,7 +175,7 @@ a.button:active {
 
   #share {
     margin-top: 27px;
-    margin-bottom: 15px;
+    margin-bottom: 17px;
   }
 
   #content div {
