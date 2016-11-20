@@ -2,7 +2,6 @@
 var listAudios = [];
 
 function initApp(dataInfo) {
-	initApp()
 	dataURL = location.search.split('data=')[1];
 	if (dataURL === undefined) {
 		dataURL = dataInfo;
