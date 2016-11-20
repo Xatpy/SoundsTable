@@ -1,3 +1,6 @@
+// Variable
+var listAudios = [];
+
 window.onload = function() {
 	dataURL = location.search.split('data=')[1];
 	if (dataURL === undefined) {
@@ -6,15 +9,14 @@ window.onload = function() {
 
 	loadJSON(dataURL,
     	function(data) {
-    		console.log(data); 
+    		console.log("empezamos"); 
     		parseData(data);
+    		console.log("fin");
     	},
     	function(xhr) { 
     		console.error("Error: " + xhr); 
     	}
 	);
-	
-	//createButtons();
 };
 
 function loadJSON(path, success, error)
@@ -55,7 +57,7 @@ function parseData(data) {
 		for (var i = 0; i < data.sounds.length; ++i) {
 			if (verifySound(data.sounds[i])) {
 				var innerDiv = document.createElement('div');
-				var button = createButton(data.sounds[i].text, data.sounds[i].soundURL);
+				var button = createButton(data.sounds[i].text, data.sounds[i].soundURL, i);
 				innerDiv.appendChild(button);
 				parentNode.appendChild(innerDiv);
 			}			
@@ -63,31 +65,20 @@ function parseData(data) {
 	}
 }
 
-function createButton(text, urlSound) {
-	var link = document.createElement('a');
-	link.textContent = text;
-	link.id = "button";
-	link.onclick = function() {
-		console.log("aaaaaa");
-		var audio = new Audio(urlSound)
-		audio.load();
-		audio.play();
-	}
-	return link;
+function loadAudio(urlSound) {
+	var audio = new Audio(urlSound)
+	audio.load();
+	listAudios.push(audio);
 }
 
-function createButtons(){ 
-
-	for (var i = 0; i < 100; ++i) {
-		var parentNode = document.getElementById("content");
-		var innerDiv = document.createElement('div');
-
-		var link = document.createElement('a');
-		link.textContent = i;
-		link.id = "button"
-		innerDiv.appendChild(link);
-
-		parentNode.appendChild(innerDiv);
+function createButton(text, urlSound, id) {
+	var link = document.createElement('a');
+	link.textContent = text;
+	link.className = "button";
+	link.id = id;
+	loadAudio(urlSound);
+	link.onclick = function(evt) {
+		listAudios[evt.srcElement.id].play();
 	}
-
+	return link;
 }

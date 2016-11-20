@@ -80,6 +80,10 @@
 		{
 			"text": "El castellano",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/elCastellano.mp3"
+		},
+		{
+			"text": "What a time to be alive",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/lvm/whatATimeToBeAlive.mp3"
 		}
 	]
 }

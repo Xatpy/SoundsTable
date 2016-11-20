@@ -41,7 +41,7 @@ h1 {
 Link: https://codepen.io/mkvug/pen/meJyr
 <a id="button">Click Me</a>
 */
-a#button {
+a.button {
   position: relative;
   display: block;
   text-align: center;
@@ -74,7 +74,7 @@ a#button {
   justify-content: center;
   font-size: 2.5vw;
 }
-a#button:before {
+a.button:before {
   content: " ";
   display: block;
   position: absolute;
@@ -92,7 +92,7 @@ a#button:before {
   box-shadow: inset 0 7px 15px rgba(255,255,255,0.5), inset 0 -7px 15px rgba(0,0,0,0.5);
 }
 
-a#button:active {
+a.button:active {
   -webkit-box-shadow: inset 0 0 20px rgba(0,0,0,0.5);
   box-shadow: inset 0 0 20px rgba(0,0,0,0.5);
   color: #ffeded;
@@ -150,7 +150,7 @@ a#button:active {
     height: 125px;
   }
 
-  a#button {
+  a.button {
     font-size: 3vw;
     width: 60px;
     height: 60px;
@@ -158,7 +158,7 @@ a#button:active {
     margin: -50px 0 0 -25px;
   }
 
-  a#button:before {
+  a.button:before {
     width: 100px;
     height: 100px;
     top: 50%;
