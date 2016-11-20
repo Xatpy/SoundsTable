@@ -7,6 +7,20 @@ html {
 	font-family: 'Lobster', cursive;
 }
 
+header .mainLogo {
+  float: right;
+  width: 100px;
+  height: 100px;
+  background: #555;
+  margin-right: 10px;
+}
+
+header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
 h1 {
     display: flex;
     justify-content: center;
@@ -34,6 +48,20 @@ h1 {
 #content div {
     width: 200px;
     height: 200px;
+}
+
+#share {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 27px;
+    margin-right: 45px;
+}
+
+.logo {
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
 }
 
 /*
@@ -107,13 +135,6 @@ a.button:active {
 
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
-  html { 
-    background: url(images/icon.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
 }
 
 /* Landscape phone to portrait tablet */
@@ -141,13 +162,29 @@ a.button:active {
     background-size: cover;
   }
 
+  header .mainLogo {
+    width: 35px;
+    height: 35px;
+    margin-top: 27px;
+    margin-right: 1px;
+  }
+
   h1 {
-    font-size: 5vh;
+    font-size: 6vh;
+  }
+
+  #share {
+    margin-top: 25px;
   }
 
   #content div {
     width: 100px;
     height: 125px;
+  }
+
+  .logo {
+    width: 28px;
+    height: 28px;
   }
 
   a.button {
