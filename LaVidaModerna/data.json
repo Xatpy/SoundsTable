@@ -14,7 +14,7 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/upydNo.mp3"
 		},
 		{
-			"text": "El rancius",
+			"text": "El Rancius",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elRancius.mp3"
 		},
 		{
@@ -104,6 +104,10 @@
 		{
 			"text": "Pídeselo a Quequé",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/pideseloAQueque.mp3"
+		},
+		{
+			"text": "Ay...Carlota",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/ayCarlota.mp3"
 		}
 	]
 }
