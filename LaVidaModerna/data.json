@@ -108,6 +108,10 @@
 		{
 			"text": "Ay...Carlota",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/ayCarlota.mp3"
+		},
+		{
+			"text": "Que venga un facha",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/queVengaUnFacha.mp3"
 		}
 	]
 }
