@@ -76,7 +76,8 @@ function createButton(text, urlSound, id) {
 	link.id = id;
 	loadAudio(urlSound);
 	link.onclick = function(evt) {
-		listAudios[evt.srcElement.id].play();
+		var target = evt.target || evt.srcElement; // Fix for Firefox
+		listAudios[target.id].play();
 	}
 	return link;
 }
