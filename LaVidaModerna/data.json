@@ -50,15 +50,15 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laIndignacio.mp3"
 		},
 		{
-			"text": "La transformasió",
+			"text": "La transformació",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laTransformasio.mp3"
 		},
 		{
-			"text": "La promosió",
+			"text": "La promoció",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laPromosio.mp3"
 		},
 		{
-			"text": "La humillasió",
+			"text": "La humillació",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laHumillasio.mp3"
 		},
 		{
@@ -112,6 +112,14 @@
 		{
 			"text": "Que venga un facha",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/queVengaUnFacha.mp3"
+		},
+		{
+			"text": "Fuaaa!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/fua.mp3"
+		},
+		{
+			"text": "Pollito de Troya!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/pollitoDeTroya.mp3"
 		}
 	]
 }
