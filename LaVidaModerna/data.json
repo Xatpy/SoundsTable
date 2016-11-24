@@ -114,11 +114,15 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/queVengaUnFacha.mp3"
 		},
 		{
-			"text": "Fuaaa!",
+			"text": "¡Fuaaa!",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/fua.mp3"
 		},
 		{
-			"text": "Pollito de Troya!",
+			"text": "¡Pollito de Troya!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/pollitoDeTroya.mp3"
+		},
+		{
+			"text": "¡Vasito de agua!",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/pollitoDeTroya.mp3"
 		}
 	]
