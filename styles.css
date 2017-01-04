@@ -130,7 +130,9 @@ a.button:active {
 /* ----- MEDIA QUERIES ------ */
 /* Large desktop */
 @media (min-width: 1200px) {
-
+  a.button {
+ 	font-size: 1.5vw;
+  }
 }
 
 /* Portrait tablet to landscape and desktop */
