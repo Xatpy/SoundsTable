@@ -124,6 +124,14 @@
 		{
 			"text": "¡Vasito de agua!",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/vasitoDeAgua.mp3"
+		},
+		{
+			"text": "Un perro",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/unPerro.mp3"
+		},
+		{
+			"text": "La hermita",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laHermita.mp3"
 		}
 	]
 }
