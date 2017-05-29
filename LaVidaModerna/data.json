@@ -132,6 +132,22 @@
 		{
 			"text": "La hermita",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laHermita.mp3"
-		}
+		},
+		{
+			"text": "¡Conseguido!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/conseguido.mp3"
+		},
+		{
+			"text": "El cable",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elCable.mp3"
+		},
+		{
+			"text": "Nos han traído una cosa",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/nosHanTraidoUnaCosa.mp3"
+		},
+		{
+			"text": "¡Padre!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/padre.mp3"
+		},
 	]
 }
