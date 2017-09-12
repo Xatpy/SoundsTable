@@ -149,5 +149,42 @@
 			"text": "¡Padre!",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/padre.mp3"
 		}
+		,
+		{
+			"text": "El cuenco ese de las flores secas",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elcuencoesedelasfloressecas.mp3"
+		},
+		{
+			"text": "El secretito",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elSecretito.mp3"
+		},
+		{
+			"text": "Gente que se flipa",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/genteQueSeFlipa.mp3"
+		},
+		{
+			"text": "La coMMedia",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laCommedia.mp3"
+		},
+		{
+			"text": "Los gilipollitas",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/losGilipollitas.mp3"
+		},
+		{
+			"text": "Nos hemos traído una cosa",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/nosHemosTraidoUnaCosa.mp3"
+		},
+		{
+			"text": "Sacudir la alfrombra",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/sacudirLaAlfrombra.mp3"
+		},
+		{
+			"text": "Salamanca 1977",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/salamanca1977.mp3"
+		},
+		{
+			"text": "Sacudir la alfrombra",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/sacudirLaAlfrombra.mp3"
+		},
 	]
 }
