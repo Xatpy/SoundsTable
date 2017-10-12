@@ -187,24 +187,8 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/sacudirLaAlfrombra.mp3"
 		},
 		{
-			"text": "El amoche",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elAmoche.mp3"
-		},
-		{
 			"text": "El cancaneo",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elCancaneo.mp3"
-		},
-		{
-			"text": "El sector primario",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elSecotPrimario.mp3"
-		},
-		{
-			"text": "¿Qué está pasando en Euskadi?",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/queEstaPasandoEnEuskadi.mp3"
-		},
-		{
-			"text": "Si o no",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/siONo.mp3"
 		},
 		{
 			"text": "Recogiendo cable",
