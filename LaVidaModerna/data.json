@@ -185,6 +185,62 @@
 		{
 			"text": "Sacudir la alfrombra",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/sacudirLaAlfrombra.mp3"
+		},
+		{
+			"text": "El amoche",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elAmoche.mp3"
+		},
+		{
+			"text": "El cancaneo",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elCancaneo.mp3"
+		},
+		{
+			"text": "El sector primario",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elSecotPrimario.mp3"
+		},
+		{
+			"text": "¿Qué está pasando en Euskadi?",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/queEstaPasandoEnEuskadi.mp3"
+		},
+		{
+			"text": "Si o no",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/siONo.mp3"
+		},
+		{
+			"text": "Recogiendo cable",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/recogiendoCable.mp3"
+		},
+		{
+			"text": "El Moonwalk",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elMoonwalk.mp3"
+		},
+		{
+			"text": "El volantazo",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elVolantazo.mp3"
+		},
+		{
+			"text": "Tirando de freno de mano",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/tirandoDeFrenoDeMano.mp3"
+		},
+		{
+			"text": "La palanca de emergencia",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/laPalancaDeEmergencia.mp3"
+		},
+		{
+			"text": "Derrapando en primera",z
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/derrapandoEnPrimera.mp3"
+		},
+		{
+			"text": "El cangrejito",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elCangrejito.mp3"
+		},
+		{
+			"text": "El retroces",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/elRetroces.mp3"
+		},
+		{
+			"text": "España",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/espanya.mp3"
 		}
 	]
 }
