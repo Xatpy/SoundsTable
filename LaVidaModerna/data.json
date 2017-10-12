@@ -175,16 +175,16 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/nosHemosTraidoUnaCosa.mp3"
 		},
 		{
-			"text": "Sacudir la alfrombra",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/sacudirLaAlfrombra.mp3"
-		},
-		{
 			"text": "Salamanca 1977",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/salamanca1977.mp3"
 		},
 		{
 			"text": "Granadilla de Abona 1973",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/granadillaDeAbona1973.mp3"
+		},
+		{
+			"text": "Sacudir la alfrombra",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/sacudirLaAlfrombra.mp3"
 		}
 	]
 }
