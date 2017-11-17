@@ -225,6 +225,10 @@
 		{
 			"text": "España",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/espanya.mp3"
+		},
+		{
+			"text": "Ipno Moderdonia",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/ipno.mp3"
 		}
 	]
 }
