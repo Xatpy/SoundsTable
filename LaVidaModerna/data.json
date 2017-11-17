@@ -229,6 +229,10 @@
 		{
 			"text": "Ipno Moderdonia",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/ipno.mp3"
+		},
+		{
+			"text": "Zorrooo",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/LaVidaModerna/zorro.mp3"
 		}
 	]
 }
