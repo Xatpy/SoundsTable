@@ -1,0 +1,25 @@
+{
+	"title": "La Vida Moderna",
+	"sounds" : [
+		{ 
+			"text" : "EeEeëhHh" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/grito.mp3"
+		},
+		{ 
+			"text" : "Mira qué horas son" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/horas.mp3"
+		},
+		{
+			"text" : "Gilipollas",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/gilipollas.mp3"
+		},
+		{
+			"text": "Me cago",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/meCago.mp3"
+		},
+		{
+			"text": "Porque me sale de los huevos",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/porqueMeSaleDeLosHuevos.mp3"
+		}
+	]
+}
