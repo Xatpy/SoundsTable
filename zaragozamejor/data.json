@@ -6,7 +6,7 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/grito.mp3"
 		},
 		{ 
-			"text" : "Mira qué horas son" ,
+			"text" : "Mira qué horas son..." ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/horas.mp3"
 		},
 		{
@@ -20,6 +20,18 @@
 		{
 			"text": "Porque me sale de los huevos",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/porqueMeSaleDeLosHuevos.mp3"
+		},
+		{
+			"text": "Hijo puta",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/hijoPuta.mp3"
+		},
+		{
+			"text": "A tomar por culo coñio",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/aTomar.mp3"
+		},
+		{
+			"text": "Bombón de Santo Domingo",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/unBombón.mp3"
 		}
 	]
 }
