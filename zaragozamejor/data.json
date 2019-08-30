@@ -32,6 +32,22 @@
 		{
 			"text": "Bombón de Santo Domingo",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/unBombon.mp3"
+		},
+		{
+			"text": "Aaah! Te has hecho un esguince",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/esguince.mp3"
+		},
+		{
+			"text": "Aaah! Me he manchao",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/manchao.mp3"
+		},
+		{
+			"text": "¡Gilipichis!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/gilipichis.mp3"
+		},
+		{
+			"text": "El Zaragoza va a subir",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/zaragozamejor/zaragozaSubir.mp3"
 		}
 	]
 }
