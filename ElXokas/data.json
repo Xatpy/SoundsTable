@@ -14,8 +14,8 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/callate.mp3"
 		},
         { 
-			"text" : "Como una persona puede ser tan guapa" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/como-una-persona-puede-ser-tan-guapa.mp3"
+			"text" : "Como que un juego" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/como-que-un-juego.mp3"
 		},
         { 
 			"text" : "Deja de estar tan feliz" ,
@@ -66,8 +66,16 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/ni-de-conia.mp3"
 		},
         { 
+			"text" : "No es gracioso" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/no-es-gracioso.mp3"
+		},
+        { 
 			"text" : "Pero tú eres gilipollas o qué" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pero-tu-eres-gilipollas-o-que.mp3"
+		},
+        { 
+			"text" : "Pumba que dale" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pumba-que-dale.mp3"
 		},
         { 
 			"text" : "Putos pringaos" ,
@@ -90,8 +98,16 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-cojones-me-vas-a-contar-tu.mp3"
 		},
         { 
+			"text" : "Quien cojones te crees que eres" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/quien-cojones-te-crees-que-eres.mp3"
+		},
+        { 
 			"text" : "Se me cae la babita" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/se-me-cae-la-babita.mp3"
+		},
+        { 
+			"text" : "Te meto una hostia" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/te-meto-una-hostia.mp3"
 		},
         { 
 			"text" : "Tonto" ,
