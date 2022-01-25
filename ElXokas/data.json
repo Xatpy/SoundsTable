@@ -2,6 +2,10 @@
 	"title": "El Xokas",
 	"sounds" : [
         { 
+			"text" : "A estudiar" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/a-estudiar.mp3"
+		},
+        { 
 			"text" : "Calla la boca" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/calla-la-boca.mp3"
 		},
@@ -24,6 +28,10 @@
         { 
 			"text" : "Español de España" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/espanol-de-espana.mp3"
+		},
+        { 
+			"text" : "Fuera de mi puta vista" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/fuera-de-mi-puta-vista.mp3"
 		},
         { 
 			"text" : "Gordo como una polla" ,
@@ -54,6 +62,14 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/mirad-que-puta-locura.mp3"
 		},
         { 
+			"text" : "Ni de coña chaval" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/ni-de-conia.mp3"
+		},
+        { 
+			"text" : "Pero tú eres gilipollas o qué" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pero-tu-eres-gilipollas-o-que.mp3"
+		},
+        { 
 			"text" : "Putos pringaos" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/putos-pringaos.mp3"
 		},
@@ -70,12 +86,20 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-te-meto.mp3"
 		},
         { 
+			"text" : "Qué cojones me vas a contar tú" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-cojones-me-vas-a-contar-tu.mp3"
+		},
+        { 
 			"text" : "Se me cae la babita" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/se-me-cae-la-babita.mp3"
 		},
         { 
 			"text" : "Tonto" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tonto.mp3"
+		},
+        { 
+			"text" : "Tontito" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tontito.mp3"
 		},
         { 
 			"text" : "Vaya tetas" ,
