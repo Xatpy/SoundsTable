@@ -66,6 +66,10 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/ni-de-conia.mp3"
 		},
         { 
+			"text" : "Noname de mierda" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/noname-de-mierda.mp3"
+		},
+        { 
 			"text" : "No es gracioso" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/no-es-gracioso.mp3"
 		},
