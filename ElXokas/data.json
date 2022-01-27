@@ -73,6 +73,10 @@
 			"text" : "No es gracioso" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/no-es-gracioso.mp3"
 		},
+		{ 
+			"text" : "Parad de rodar" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/parad-de-rodar.mp3"
+		},
         { 
 			"text" : "Pero tú eres gilipollas o qué" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pero-tu-eres-gilipollas-o-que.mp3"
@@ -84,6 +88,10 @@
         { 
 			"text" : "Putos pringaos" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/putos-pringaos.mp3"
+		},
+		{ 
+			"text" : "¡¿Quééé?!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-dices.mp3"
 		},
         { 
 			"text" : "¡Qué dices!" ,
