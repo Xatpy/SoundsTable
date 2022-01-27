@@ -13,8 +13,8 @@ input {
 	user-select: auto !important;
 }
 
-html { 
-	background: url(images/highRes.jpg) no-repeat center center fixed; 
+html {
+	background: url(images/highRes.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -116,6 +116,7 @@ a.button {
   align-items: center;
   justify-content: center;
   font-size: 2.5vw;
+  text-decoration: none;
 }
 a.button:before {
   content: " ";
@@ -156,7 +157,7 @@ a.button:active {
 
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
-  html { 
+  html {
     background: url(images/highRes.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -171,7 +172,7 @@ a.button:active {
 
 /* Landscape phones and down */
 @media (max-width: 480px) {
-  html { 
+  html {
     background: url(images/highRes.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;

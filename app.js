@@ -11,8 +11,8 @@ function initApp(dataInfo) {
     	function(data) {
     		parseData(data);
     	},
-    	function(xhr) { 
-    		console.error("Error: " + xhr); 
+    	function(xhr) {
+    		console.error("Error: " + xhr);
     	}
 	);
 };
@@ -58,7 +58,7 @@ function parseData(data) {
 				var button = createButton(data.sounds[i].text, data.sounds[i].soundURL, i);
 				innerDiv.appendChild(button);
 				parentNode.appendChild(innerDiv);
-			}			
+			}
 		}
 	}
 }
@@ -72,10 +72,12 @@ function loadAudio(urlSound) {
 function createButton(text, urlSound, id) {
 	var link = document.createElement('a');
 	link.textContent = text;
+	link.href = urlSound;
 	link.className = "button";
 	link.id = id;
 	loadAudio(urlSound);
 	link.onclick = function(evt) {
+		evt.preventDefault();
 		var target = evt.target || evt.srcElement; // Fix for Firefox
 		listAudios[target.id].play();
 	}
@@ -84,7 +86,7 @@ function createButton(text, urlSound, id) {
 
 /* SHARE */
 ;(function($){
-  
+
   /**
    * jQuery function to prevent default anchor event and take the href * and the title to make a share popup
    *
@@ -94,10 +96,10 @@ function createButton(text, urlSound, id) {
    * @param  {[boolean]} blnResize  [Is popup resizeabel default true]
    */
   $.fn.customerPopup = function (e, intWidth, intHeight, blnResize) {
-    
+
     // Prevent default anchor event
     e.preventDefault();
-    
+
     // Set values for window
     intWidth = intWidth || '500';
     intHeight = intHeight || '400';
@@ -105,12 +107,12 @@ function createButton(text, urlSound, id) {
 
     // Set title and open popup with focus on it
     var strTitle = ((typeof this.attr('title') !== 'undefined') ? this.attr('title') : 'Social Share'),
-        strParam = 'width=' + intWidth + ',height=' + intHeight + ',resizable=' + strResize,            
+        strParam = 'width=' + intWidth + ',height=' + intHeight + ',resizable=' + strResize,
         objWindow = window.open(this.attr('href'), strTitle, strParam).focus();
   }
-  
+
   /* ================================================== */
-  
+
   $(document).ready(function ($) {
     $('.customer.share').on("click", function(e) {
       $(this).customerPopup(e);
