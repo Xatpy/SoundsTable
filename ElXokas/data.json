@@ -49,6 +49,10 @@
 			"text" : "La madre que os parió" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/la-madre-que-os-pario.mp3"
 		},
+		{ 
+			"text" : "La pisa aterrisa en Ibisa" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pisa-aterrisa-ibisa.mp3"
+		},
         { 
 			"text" : "Los que te dicen que siempre comen sano..." ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/los-que-te-dicen-que-siempre-comen-sano.mp3"
