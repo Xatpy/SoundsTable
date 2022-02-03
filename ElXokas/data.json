@@ -54,6 +54,10 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/gordo-como-una-polla.mp3"
 		},
 		{ 
+			"text" : "Hemos vuelto...!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hemos-vuelto.mp3"
+		},
+		{ 
 			"text" : "Hostia!!!" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hostias.mp3"
 		},
