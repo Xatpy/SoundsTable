@@ -5,6 +5,10 @@
 			"text" : "A estudiar" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/a-estudiar.mp3"
 		},
+		{ 
+			"text" : "A ver si se oye así bien",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/a-ver-si-se-oye-asi-bien.mp3"
+		},
         { 
 			"text" : "Calla la boca" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/calla-la-boca.mp3"
