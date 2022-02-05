@@ -69,6 +69,10 @@
 			"text" : "¡¡Hooostias!!" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hostias.mp3"
 		},
+		{ 
+			"text" : "Habla todo lo español que puedas" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/habla-todo-lo-espanol-que-puedas.mp3"
+		},
         { 
 			"text" : "Hijo de la gran puta" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hijo-de-la-gran-puta.mp3"
