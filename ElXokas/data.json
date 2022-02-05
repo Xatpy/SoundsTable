@@ -1,6 +1,10 @@
 {
 	"title": "El Xokas",
 	"sounds" : [
+		{ 
+			"text" : "Aaaaah mis ojos!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/aaa-mis-ojos.mp3"
+		},
         { 
 			"text" : "A estudiar" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/a-estudiar.mp3"
@@ -8,6 +12,10 @@
 		{ 
 			"text" : "A ver si se oye así bien",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/a-ver-si-se-oye-asi-bien.mp3"
+		},
+		{ 
+			"text" : "Bueno" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/bueno.mp3"
 		},
         { 
 			"text" : "Calla la boca" ,
@@ -64,6 +72,10 @@
 		{ 
 			"text" : "Hemos vuelto...!" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hemos-vuelto.mp3"
+		},
+		{ 
+			"text" : "Helado de Happy Hippo" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/helado-de-happy-hippo.mp3"
 		},
 		{ 
 			"text" : "¡¡Hooostias!!" ,
@@ -138,8 +150,8 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pero-tu-eres-gilipollas-o-que.mp3"
 		},
 		{
-			"text" : "Podeis agarrarme del glando" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/podeis-agarrarme-del-glande-si-quereis.mp3"
+			"text" : "Podeis agarrarme del glande" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/podeis-agarrarme-del-glande.mp3"
 		},
 		{
 			"text" : "Pum baneado 15 días" ,
@@ -188,6 +200,10 @@
         { 
 			"text" : "Quien cojones te crees que eres" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/quien-cojones-te-crees-que-eres.mp3"
+		},
+		{ 
+			"text" : "Quiero que estés callado" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/quiero-que-estes-callado.mp3"
 		},
         { 
 			"text" : "Se me cae la babita" ,
