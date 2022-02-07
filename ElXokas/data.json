@@ -46,6 +46,10 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dios.mp3"
 		},
 		{ 
+			"text" : "Eres imbécil" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/eres-imbecil.mp3"
+		},
+		{ 
 			"text" : "Esto no es juego" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/esto-no-es-un-juego.mp3"
 		},
@@ -101,6 +105,10 @@
 			"text" : "La pisa aterrisa en Ibisa" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pisa-aterrisa-ibisa.mp3"
 		},
+		{ 
+			"text" : "Los inyecto para levantar España..." ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/los-inyecto-para.mp3"
+		},
         { 
 			"text" : "Los que te dicen que siempre comen sano..." ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/los-que-te-dicen-que-siempre-comen-sano.mp3"
@@ -112,6 +120,14 @@
 		{ 
 			"text" : "Me cago en tus muertos",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-cago-en-tus-muertos.mp3"
+		},
+		{ 
+			"text" : "Me he dejado las llaves dentro...",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-he-dejado-las-llaves-dentro.mp3"
+		},
+		{ 
+			"text" : "Me fumo 4 porros",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-fumo-4-porros.mp3"
 		},
 		{ 
 			"text" : "Me he fumado un porro",
