@@ -53,6 +53,10 @@
 			"text" : "Esto no es juego" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/esto-no-es-un-juego.mp3"
 		},
+		{ 
+			"text" : "Esto qué cojones es" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/esto-que-cojones-es.mp3"
+		},
         { 
 			"text" : "Español de España" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/espanol-de-espana.mp3"
