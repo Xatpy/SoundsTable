@@ -20,6 +20,7 @@ html {
 	-o-background-size: cover;
 	background-size: cover;
 	font-family: 'Lobster', cursive;
+  font-display: swap;
 }
 
 header .mainLogo {
@@ -28,6 +29,15 @@ header .mainLogo {
   height: 100px;
   background: #555;
   margin-right: 10px;
+}
+
+header .mainLogoXks {
+
+  background: #555;
+  margin-right: 10px;
+  float: right;
+  width: 146px;
+  height: 83px;
 }
 
 header h1 {

@@ -1,5 +1,18 @@
-// Variable
-var listAudios = [];
+let hashAudios = {};
+let hashAudiosIds = {}
+let lastCodeKey = '';
+let indexCurrentCodeKey = -1;
+
+document.addEventListener('keyup', handleKey);
+function handleKey(e) {
+	const codeKey = e.key.toLowerCase();
+	if (codeKey !== lastCodeKey) {
+		indexCurrentCodeKey = -1;
+	}
+	lastCodeKey = codeKey;
+  	console.log(codeKey);
+	playIdFromKeyboard(codeKey);
+}
 
 function initApp(dataInfo) {
 	dataURL = location.search.split('data=')[1];
@@ -63,10 +76,51 @@ function parseData(data) {
 	}
 }
 
+const getIdFromUrl = (urlSound) => {
+	return urlSound.substring(urlSound.lastIndexOf("/") + 1).replace(".mp3", "");
+}
+
 function loadAudio(urlSound) {
+	const id = getIdFromUrl(urlSound);
 	var audio = new Audio(urlSound)
 	audio.load();
-	listAudios.push(audio);
+	audio.id = id;
+	hashAudios[id] = audio;
+
+	const firstCharacter = id[0];
+	if (!hashAudiosIds.hasOwnProperty(firstCharacter)) {
+		hashAudiosIds[firstCharacter] = [];
+	}
+	hashAudiosIds[firstCharacter].push(id);
+}
+
+const playIdFromKeyboard = (keyCode) => {
+	if (keyCode === "escape") {
+		playAllSounds();
+	} else {
+		const listCategoryAudios = hashAudiosIds[keyCode];
+		if (listCategoryAudios && listCategoryAudios.length > 0) {
+			indexCurrentCodeKey += 1;
+			if (indexCurrentCodeKey >= listCategoryAudios.length) {
+				indexCurrentCodeKey = 0;
+			}
+			const audioId = listCategoryAudios[indexCurrentCodeKey];
+			hashAudios[audioId].play();
+		}
+	}
+}
+
+function waitforme(milisec) {
+    return new Promise(resolve => {
+        setTimeout(() => { resolve('') }, milisec);
+    })
+}
+
+async function playAllSounds() {
+	for (const [key, value] of Object.entries(hashAudios)) {
+		hashAudios[key].play()
+		await waitforme(1000);
+	}
 }
 
 function createButton(text, urlSound, id) {
@@ -74,12 +128,12 @@ function createButton(text, urlSound, id) {
 	link.textContent = text;
 	link.href = urlSound;
 	link.className = "button";
-	link.id = id;
+	link.id = getIdFromUrl(urlSound);
 	loadAudio(urlSound);
 	link.onclick = function(evt) {
 		evt.preventDefault();
 		var target = evt.target || evt.srcElement; // Fix for Firefox
-		listAudios[target.id].play();
+		hashAudios[target.id].play();
 	}
 	return link;
 }
