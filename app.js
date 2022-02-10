@@ -138,6 +138,18 @@ function createButton(text, urlSound, id) {
 	return link;
 }
 
+if ("serviceWorker" in navigator) {
+	// Include service worker for el Xokas to test PWA
+	if (window.location.href.includes("Xokas")) {
+		window.addEventListener("load", function() {
+			navigator.serviceWorker
+			  .register("./serviceWorker.js")
+			  .then(res => console.log("service worker registered"))
+			  .catch(err => console.log("service worker not registered", err))
+		})
+	}
+}
+
 /* SHARE */
 ;(function($){
 

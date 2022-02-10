@@ -1,0 +1,43 @@
+{
+    "name": "El Xokas Sounds Table",
+    "short_name": "El Xokas sounds table",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#7d3014",
+    "theme_color": "#ff0000",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_72.jpeg",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_96.jpeg",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_128.jpeg",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_144.jpeg",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_152.jpeg",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_192.jpeg",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_384.jpeg",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_512.jpeg",
+        "type": "image/jpg", "sizes": "512x512"
+      }
+    ]
+  }
