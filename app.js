@@ -10,7 +10,6 @@ function handleKey(e) {
 		indexCurrentCodeKey = -1;
 	}
 	lastCodeKey = codeKey;
-  	console.log(codeKey);
 	playIdFromKeyboard(codeKey);
 }
 
