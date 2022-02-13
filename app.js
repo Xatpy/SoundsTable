@@ -56,19 +56,31 @@ function verifySound(sound) {
 }
 
 function parseData(data) {
-	var title = data.title;
+	const title = data.title;
 	if (title !== undefined) {
 		document.getElementById("head").innerHTML = title;
 	}
 
-	var sounds = data.sounds;
+	let sounds = data.sounds;
 	if (sounds !== undefined) {
-		var parentNode = document.getElementById("content");
+		let parentNode = document.getElementById("content");
 		for (var i = 0; i < data.sounds.length; ++i) {
 			if (verifySound(data.sounds[i])) {
-				var innerDiv = document.createElement('div');
-				var button = createButton(data.sounds[i].text, data.sounds[i].soundURL, i);
+				let innerDiv = document.createElement('div');
+				
+				if (data.sounds[i].tag) {
+					let span = document.createElement("span");
+					span.classList.add("tag")
+					if (data.sounds[i].tag === "New") {
+						span.classList.add("tagNew");
+					}
+					span.innerHTML = data.sounds[i].tag;
+					innerDiv.appendChild(span);
+				}
+
+				let button = createButton(data.sounds[i].text, data.sounds[i].soundURL, i);
 				innerDiv.appendChild(button);
+
 				parentNode.appendChild(innerDiv);
 			}
 		}

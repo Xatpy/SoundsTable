@@ -153,6 +153,20 @@ a.button:active {
   color: #ffeded;
 }
 
+.tag {
+  position: absolute;
+  color: #363232;
+  text-shadow: 1px 1px 1px #b0b0b0;
+  margin-top: 20px;
+  margin-left: 16px;
+}
+
+.tagNew {
+  color: #ffeb3b;
+  text-shadow: 1px 2px 1px #030303;
+  font-style: italic;
+}
+
 
 /* ----- MEDIA QUERIES ------ */
 /* Large desktop */
@@ -237,5 +251,12 @@ a.button:active {
     left: -20px;
     -webkit-box-shadow: inset 0 7px 15px rgba(255,255,255,0.5), inset 0 -7px 15px rgba(0,0,0,0.5);
     box-shadow: inset 0 7px 15px rgba(255,255,255,0.5), inset 0 -7px 15px rgba(0,0,0,0.5);
+  }
+
+  .tag {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: x-small;
   }
 }

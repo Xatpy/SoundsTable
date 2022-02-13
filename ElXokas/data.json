@@ -2,12 +2,125 @@
 	"title": "El Xokas",
 	"sounds" : [
 		{ 
+			"text" : "¡Cállate!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/callate.mp3",
+			"tag": "🥇Top 1"
+		},
+		{ 
+			"text" : "Dos por uno en burros" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dos-por-uno-en-burros.mp3",
+			"tag": "🥈Top 2"
+		},
+		{ 
+			"text" : "Calla la boca" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/calla-la-boca.mp3",
+			"tag": "🥉Top 3"
+		},
+		{ 
+			"text" : "Tontito" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tontito.mp3",
+			"tag": "Top 4"
+		},
+		{
+			"text" : "Y tú callau!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/y-tu-callau.mp3",
+			"tag": "Top 5"
+		},
+		{ 
+			"text" : "Tonto" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tonto.mp3",
+			"tag": "Top 6"
+		},
+		{ 
+			"text" : "Eres imbécil" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/eres-imbecil.mp3",
+			"tag": "Top 7"
+		},
+		{ 
+			"text" : "Fumo porros" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/fumo-porros.mp3",
+			"tag": "Top 8"
+		},
+		{ 
+			"text" : "¡Dios!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dios.mp3",
+			"tag": "Top 9"
+		},
+		{
+			"text" : "Quéhh" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/queh.mp3",
+			"tag": "Top 10"
+		},
+		{ 
+			"text" : "Habla todo lo español que puedas" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/habla-todo-lo-espanol-que-puedas.mp3"
+		},
+		{
+			"text" : "Que ya te he escuchado!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-ya-te-he-escuchado.mp3",
+			"tag": "New"
+		},
+		{ 
+			"text" : "A estudiar" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/a-estudiar.mp3"
+		},
+		{ 
+			"text" : "¡¿Quééé?!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/queee.mp3"
+		},
+		{
+			"text" : "¡¿De verdad?!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/de-verdad.mp3"
+		},
+		{ 
+			"text" : "¿Cómo que un juego?" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/como-que-un-juego.mp3"
+		},
+		{ 
+			"text" : "¡¡Hooostias!!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hostias.mp3"
+		},
+		{ 
+			"text" : "Helado de Happy Hippo" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/helado-de-happy-hippo.mp3",
+			"tag": "New"
+		},
+		{ 
+			"text" : "Hijo de la gran puta" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hijo-de-la-gran-puta.mp3"
+		},
+		{ 
+			"text" : "Español de España" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/espanol-de-espana.mp3"
+		},
+		{ 
+			"text" : "Hemos vuelto...!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hemos-vuelto.mp3"
+		},
+		{ 
 			"text" : "Aaaaah mis ojos!" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/aaa-mis-ojos.mp3"
 		},
+		{ 
+			"text" : "Vaya tetas" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/vaya-tetas.mp3"
+		},
+		{ 
+			"text" : "Parad de rodar" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/parad-de-rodar.mp3"
+		},
         { 
-			"text" : "A estudiar" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/a-estudiar.mp3"
+			"text" : "Deja de estar tan feliz" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/deja-de-estar-tan-feliz.mp3"
+		},
+		{ 
+			"text" : "Viva España hijos de la gran puta" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/viva-espana-hijos-de-la-gran-puta.mp3"
+		},
+		{ 
+			"text" : "Esto no es juego" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/esto-no-es-un-juego.mp3",
+			"tag": "New"
 		},
 		{ 
 			"text" : "A ver si se oye así bien",
@@ -15,59 +128,16 @@
 		},
 		{ 
 			"text" : "Bueno" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/bueno.mp3"
-		},
-        { 
-			"text" : "Calla la boca" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/calla-la-boca.mp3"
-		},
-        { 
-			"text" : "¡Cállate!" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/callate.mp3"
-		},
-        { 
-			"text" : "¿Cómo que un juego?" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/como-que-un-juego.mp3"
-		},
-		{
-			"text" : "¡¿De verdad?!" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/de-verdad.mp3"
-		},
-		{ 
-			"text" : "Dos por uno en burros" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dos-por-uno-en-burros.mp3"
-		},
-        { 
-			"text" : "Deja de estar tan feliz" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/deja-de-estar-tan-feliz.mp3"
-		},
-        { 
-			"text" : "¡Dios!" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dios.mp3"
-		},
-		{ 
-			"text" : "Eres imbécil" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/eres-imbecil.mp3"
-		},
-		{ 
-			"text" : "Esto no es juego" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/esto-no-es-un-juego.mp3"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/bueno.mp3"	
 		},
 		{ 
 			"text" : "Esto qué cojones es" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/esto-que-cojones-es.mp3"
-		},
-        { 
-			"text" : "Español de España" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/espanol-de-espana.mp3"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/esto-que-cojones-es.mp3",
+			"tag": "New"
 		},
         { 
 			"text" : "Fuera de mi puta vista" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/fuera-de-mi-puta-vista.mp3"
-		},
-		{ 
-			"text" : "Fumo porros" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/fumo-porros.mp3"
 		},
 		{ 
 			"text" : "Gordo, peazo de vaca" ,
@@ -76,26 +146,6 @@
         { 
 			"text" : "Gordo como una polla" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/gordo-como-una-polla.mp3"
-		},
-		{ 
-			"text" : "Hemos vuelto...!" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hemos-vuelto.mp3"
-		},
-		{ 
-			"text" : "Helado de Happy Hippo" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/helado-de-happy-hippo.mp3"
-		},
-		{ 
-			"text" : "¡¡Hooostias!!" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hostias.mp3"
-		},
-		{ 
-			"text" : "Habla todo lo español que puedas" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/habla-todo-lo-espanol-que-puedas.mp3"
-		},
-        { 
-			"text" : "Hijo de la gran puta" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/hijo-de-la-gran-puta.mp3"
 		},
         { 
 			"text" : "Jajaja" ,
@@ -111,7 +161,8 @@
 		},
 		{ 
 			"text" : "Los inyecto para levantar España..." ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/los-inyecto-para.mp3"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/los-inyecto-para.mp3",
+			"tag": "New"
 		},
         { 
 			"text" : "Los que te dicen que siempre comen sano..." ,
@@ -127,11 +178,13 @@
 		},
 		{ 
 			"text" : "Me he dejado las llaves dentro...",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-he-dejado-las-llaves-dentro.mp3"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-he-dejado-las-llaves-dentro.mp3",
+			"tag": "New"
 		},
 		{ 
 			"text" : "Me fumo 4 porros",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-fumo-4-porros.mp3"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-fumo-4-porros.mp3",
+			"tag": "New"
 		},
 		{ 
 			"text" : "Me he fumado un porro",
@@ -158,10 +211,6 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/no-es-gracioso.mp3"
 		},
 		{ 
-			"text" : "Parad de rodar" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/parad-de-rodar.mp3"
-		},
-		{ 
 			"text" : "Pedro Sánchez y..." ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pedro-sanche-y.mp3"
 		},
@@ -171,7 +220,8 @@
 		},
 		{
 			"text" : "Podeis agarrarme del glande" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/podeis-agarrarme-del-glande.mp3"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/podeis-agarrarme-del-glande.mp3",
+			"tag": "New"
 		},
 		{
 			"text" : "Pum baneado 15 días" ,
@@ -189,14 +239,6 @@
 			"text" : "Que no se pasen de listos" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-no-se-pasen-de-listos.mp3"
 		},
-		{ 
-			"text" : "¡¿Quééé?!" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/queee.mp3"
-		},
-		{
-			"text" : "¡Quéhhh!" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/queh.mp3"
-		},
         { 
 			"text" : "¡Qué dices!" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-dices.mp3"
@@ -213,10 +255,6 @@
 			"text" : "Que te meto" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-te-meto.mp3"
 		},
-		{
-			"text" : "Que ya te he escuchado!",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/que-ya-te-he-escuchado.mp3"
-		},
         { 
 			"text" : "Quien cojones te crees que eres" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/quien-cojones-te-crees-que-eres.mp3"
@@ -227,7 +265,8 @@
 		},
 		{ 
 			"text" : "Quiero que estés callado" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/quiero-que-estes-callado.mp3"
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/quiero-que-estes-callado.mp3",
+			"tag": "New"
 		},
         { 
 			"text" : "Se me cae la babita" ,
@@ -249,22 +288,6 @@
 			"text" : "Te meto una hostia" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/te-meto-una-hostia.mp3"
 		},
-        { 
-			"text" : "Tonto" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tonto.mp3"
-		},
-        { 
-			"text" : "Tontito" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tontito.mp3"
-		},
-        { 
-			"text" : "Vaya tetas" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/vaya-tetas.mp3"
-		},
-        { 
-			"text" : "Viva España hijos de la gran puta" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/viva-espana-hijos-de-la-gran-puta.mp3"
-		},
 		{ 
 			"text" : "Y culo,culo y culo" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/y-culo-culo-y-culo.mp3"
@@ -272,10 +295,6 @@
 		{
 			"text" : "Y le he dao un poco a la teta" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/y-le-he-dao-un-poco-a-la-teta.mp3"
-		},
-		{
-			"text" : "Y tú callau!",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/y-tu-callau.mp3"
 		}
     ]
 }
