@@ -1,4 +1,4 @@
-const version = 5;
+const version = 6;
 const elXokasWPA = `xokas-sounds-table-wpa-${version}`
 const assets = [
   "/",
