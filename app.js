@@ -144,7 +144,12 @@ function createButton(text, urlSound, id) {
 	link.onclick = function(evt) {
 		evt.preventDefault();
 		var target = evt.target || evt.srcElement; // Fix for Firefox
-		hashAudios[target.id].play();
+		if (hashAudios[target.id].paused)
+			hashAudios[target.id].play();
+		else {
+            hashAudios[target.id].pause();
+            hashAudios[target.id].currentTime = 0;
+        }
 	}
 	return link;
 }
