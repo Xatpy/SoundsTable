@@ -51,6 +51,11 @@
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/queh.mp3",
 			"tag": "Top 10"
 		},
+		{
+			"text" : "Punto!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/punto.mp3",
+			"tag": "New"
+		},
 		{ 
 			"text" : "Habla todo lo español que puedas" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/habla-todo-lo-espanol-que-puedas.mp3"
