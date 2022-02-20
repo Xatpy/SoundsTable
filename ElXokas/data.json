@@ -52,6 +52,16 @@
 			"tag": "Top 10"
 		},
 		{
+			"text" : "Redz, a trabajar quiero el diamante",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/redz-a-trabajar-quiero-el-diamante.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "Redz, cambia eso",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/redz-cambia-eso.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "Un besito a todos",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/un-besito-a-todos.mp3",
 			"tag": "New"
