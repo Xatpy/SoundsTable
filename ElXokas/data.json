@@ -7,33 +7,33 @@
 			"tag": "🥇Top 1"
 		},
 		{ 
-			"text" : "Dos por uno en burros" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dos-por-uno-en-burros.mp3",
-			"tag": "🥈Top 2"
-		},
-		{ 
-			"text" : "Calla la boca" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/calla-la-boca.mp3",
-			"tag": "🥉Top 3"
-		},
-		{ 
 			"text" : "Tontito" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tontito.mp3",
-			"tag": "Top 4"
-		},
-		{
-			"text" : "Y tú callau!",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/y-tu-callau.mp3",
-			"tag": "Top 5"
+			"tag": "🥈Top 2"
 		},
 		{ 
 			"text" : "Tonto" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tonto.mp3",
+			"tag": "🥉Top 3"
+		},
+		{
+			"text" : "Y tú callau!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/y-tu-callau.mp3",
+			"tag": "Top 4"
+		},
+		{ 
+			"text" : "Calla la boca" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/calla-la-boca.mp3",
+			"tag": "Top 5"
+		},
+		{
+			"text" : "Quéhh" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/queh.mp3",
 			"tag": "Top 6"
 		},
 		{ 
-			"text" : "Eres imbécil" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/eres-imbecil.mp3",
+			"text" : "Dos por uno en burros" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dos-por-uno-en-burros.mp3",
 			"tag": "Top 7"
 		},
 		{ 
@@ -42,14 +42,24 @@
 			"tag": "Top 8"
 		},
 		{ 
-			"text" : "¡Dios!" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dios.mp3",
+			"text" : "Eres imbécil" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/eres-imbecil.mp3",
 			"tag": "Top 9"
 		},
-		{
-			"text" : "Quéhh" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/queh.mp3",
+		{ 
+			"text" : "¡Dios!" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dios.mp3",
 			"tag": "Top 10"
+		},
+		{
+			"text" : "Un besito a todos",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/un-besito-a-todos.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "Dale like",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/dale-like.mp3",
+			"tag": "New"
 		},
 		{
 			"text" : "Punto!",
