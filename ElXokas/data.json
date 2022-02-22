@@ -52,6 +52,16 @@
 			"tag": "Top 10"
 		},
 		{
+			"text" : "¿Estás en desacuerdo? Te callas",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/estas-en-desacuerdo-te-callas.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "Viva Hannah Montana...",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/viva-hannah-montana.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "Redz, quiero el diamante a trabajar",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/redz-a-trabajar-quiero-el-diamante.mp3",
 			"tag": "New"

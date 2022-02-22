@@ -14,8 +14,7 @@ input {
 }
 
 html {
-	/* background: url(images/highRes.jpg) no-repeat center center fixed; */
-  background: url(images/highRes.webp) no-repeat center center fixed;
+  background: url(images/highRes.webp) no-repeat center center fixed #612213;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -184,7 +183,7 @@ a.button:active {
 @media (max-width: 767px) {
   html {
     /* background: url(images/highRes.jpg) no-repeat center center fixed; */
-    background: url(images/highRes.webp) no-repeat center center fixed;
+    background: url(images/highRes.webp) no-repeat center center fixed #612213;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -200,7 +199,7 @@ a.button:active {
 @media (max-width: 480px) {
   html {
     /* background: url(images/highRes.jpg) no-repeat center center fixed; */
-    background: url(images/highRes.webp) no-repeat center center fixed;
+    background: url(images/lowRes.webp) no-repeat center center fixed #612213;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
