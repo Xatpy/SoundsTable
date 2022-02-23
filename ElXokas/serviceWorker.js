@@ -1,4 +1,4 @@
-const version = 17;
+const version = 18;
 const elXokasWPA = `xokas-sounds-table-wpa-${version}`
 const assets = [
   "/",
@@ -81,6 +81,7 @@ const assets = [
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/estas-en-desacuerdo-te-callas.mp3",
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/viva-hannah-montana.mp3",
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/estara-haciendo-caca.mp3",
+  "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/vakis-se-ha-ido.mp3",
 ]
 
 self.addEventListener("install", installEvent => {
@@ -102,10 +103,8 @@ self.addEventListener("fetch", fetchEvent => {
 self.addEventListener('activate', function(event) {
   event.waitUntil(
     caches.keys().then(function(cacheNames) {
-      console.log(cacheNames);
       return Promise.all(
         cacheNames.filter(cacheName => cacheName !== elXokasWPA).map(function(cacheName) {
-          console.log(`Clean up cache ${cacheName}`)
           return caches.delete(cacheName);
         })
       );

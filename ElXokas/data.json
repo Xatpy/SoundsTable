@@ -52,6 +52,11 @@
 			"tag": "Top 10"
 		},
 		{
+			"text" : "Vakis se ha ido!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/vakis-se-ha-ido.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "Estará haciendo caca...",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/estara-haciendo-caca.mp3",
 			"tag": "New"
@@ -124,16 +129,6 @@
 		{ 
 			"text" : "Los inyecto para levantar España..." ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/los-inyecto-para.mp3",
-			"tag": "New"
-		},
-		{
-			"text" : "Podéis agarrarme del glande" ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/podeis-agarrarme-del-glande.mp3",
-			"tag": "New"
-		},
-		{ 
-			"text" : "Me he dejado las llaves dentro...",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-he-dejado-las-llaves-dentro.mp3",
 			"tag": "New"
 		},
 		{ 
@@ -241,7 +236,11 @@
 			"text" : "Me he fumado un porro",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-he-fumado-un-porro.mp3"
 		},
-        { 
+		{ 
+			"text" : "Me he dejado las llaves dentro...",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-he-dejado-las-llaves-dentro.mp3"
+		},
+        {
 			"text" : "Mi plato favorito es ver gente llorando" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/mi-plato-favorito-es-ver-gente-llorando.mp3"
 		},
@@ -268,6 +267,10 @@
         { 
 			"text" : "Pero tú eres gilipollas o qué" ,
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pero-tu-eres-gilipollas-o-que.mp3"
+		},
+		{
+			"text" : "Podéis agarrarme del glande" ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/podeis-agarrarme-del-glande.mp3"
 		},
 		{
 			"text" : "Pum baneado 15 días" ,
