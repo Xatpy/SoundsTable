@@ -33,7 +33,8 @@
       },
       {
         "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_384.jpeg",
-        "type": "image/png", "sizes": "384x384"
+        "type": "image/png", "sizes": "384x384",
+        "purpose": "any maskable"
       },
       {
         "src": "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/images/elxokasimage_512.jpeg",
