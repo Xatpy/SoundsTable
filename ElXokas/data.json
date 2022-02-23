@@ -52,6 +52,11 @@
 			"tag": "Top 10"
 		},
 		{
+			"text" : "Estará haciendo caca...",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/estara-haciendo-caca.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "¿Estás en desacuerdo? Te callas",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/estas-en-desacuerdo-te-callas.mp3",
 			"tag": "New"
