@@ -1,4 +1,4 @@
-const version = 15;
+const version = 16;
 const elXokasWPA = `xokas-sounds-table-wpa-${version}`
 const assets = [
   "/",
@@ -97,3 +97,15 @@ self.addEventListener("fetch", fetchEvent => {
       })
     )
 })
+
+self.addEventListener('activate', function(event) {
+  event.waitUntil(
+    caches.keys().then(function(cacheNames) {
+      return Promise.all(
+        cacheNames.filter(cacheName => cacheName !== elXokasWPA).map(function(cacheName) {
+          return caches.delete(cacheName);
+        })
+      );
+    })
+  );
+});
