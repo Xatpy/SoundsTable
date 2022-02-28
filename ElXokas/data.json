@@ -52,6 +52,11 @@
 			"tag": "Top 10"
 		},
 		{
+			"text" : "Tu madre es un postre para mí",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tu-madre-es-un-postre-para-mi.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "Yuhuuu!",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/yuhuu.mp3",
 			"tag": "New"
