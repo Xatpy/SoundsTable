@@ -52,11 +52,6 @@
 			"tag": "Top 10"
 		},
 		{
-			"text" : "Tu madre es un postre para mí",
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tu-madre-es-un-postre-para-mi.mp3",
-			"tag": "New"
-		},
-		{
 			"text" : "La espada de hielo chaval",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/la-espada-de-hielo-chaval.mp3",
 			"tag": "New"
@@ -64,6 +59,11 @@
 		{
 			"text" : "24 horas baneado me...",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/24-horas-baneado-me.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "Tu madre es un postre para mí",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/tu-madre-es-un-postre-para-mi.mp3",
 			"tag": "New"
 		},
 		{
