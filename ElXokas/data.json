@@ -57,6 +57,16 @@
 			"tag": "New"
 		},
 		{
+			"text" : "La espada de hielo chaval",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/la-espada-de-hielo-chaval.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "24 horas baneado me...",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/24-horas-baneado-me.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "Yuhuuu!",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/yuhuu.mp3",
 			"tag": "New"
@@ -132,14 +142,12 @@
 			"tag": "New"
 		},
 		{ 
-			"text" : "Los inyecto para levantar España..." ,
-			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/los-inyecto-para.mp3",
-			"tag": "New"
-		},
-		{ 
 			"text" : "Me fumo 4 porros",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-fumo-4-porros.mp3",
-			"tag": "New"
+		},
+		{ 
+			"text" : "Los inyecto para levantar España..." ,
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/los-inyecto-para.mp3",
 		},
 		{ 
 			"text" : "A estudiar" ,
