@@ -52,6 +52,36 @@
 			"tag": "Top 10"
 		},
 		{
+			"text" : "Me fumé un porrazo",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-fume-un-porrazo.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "Voy a cervezas aaa!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/voy-a-cervezas-aaa.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "Vamo vamo eh eh!!",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/vamo-vamo-eh-eh.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "Baneame si tienes huevos",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/baneame-si-tienes-huevos.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "No mando saludos",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/no-mando-saludos.mp3",
+			"tag": "New"
+		},
+		{
+			"text" : "Ya no puedo más",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/ya-no-puedo-mas.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "La espada de hielo chaval",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/la-espada-de-hielo-chaval.mp3",
 			"tag": "New"
