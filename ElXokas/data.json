@@ -52,6 +52,11 @@
 			"tag": "Top 10"
 		},
 		{
+			"text" : "Pézzimo criteerio",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pezzimo-criterio.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "Me fumé un porrazo",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/me-fume-un-porrazo.mp3",
 			"tag": "New"
