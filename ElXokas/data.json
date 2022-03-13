@@ -52,6 +52,11 @@
 			"tag": "Top 10"
 		},
 		{
+			"text" : "Pido a 'una puta'...",
+			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pido-a-una-puta.mp3",
+			"tag": "New"
+		},
+		{
 			"text" : "Pézzimo criteerio",
 			"soundURL" : "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pezzimo-criterio.mp3",
 			"tag": "New"

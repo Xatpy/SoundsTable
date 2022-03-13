@@ -1,4 +1,4 @@
-const version = 29;
+const version = 30;
 const elXokasWPA = `xokas-sounds-table-wpa-${version}`
 const assets = [
   "/",
@@ -91,7 +91,8 @@ const assets = [
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/vamo-vamo-eh-eh.mp3",
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/voy-a-cervezas-aaa.mp3",
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/ya-no-puedo-mas.mp3",
-  "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pezzimo-criterio.mp3"
+  "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pezzimo-criterio.mp3",
+  "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pido-a-una-puta.mp3"
 ]
 
 self.addEventListener("install", installEvent => {
