@@ -1,5 +1,5 @@
-const version = 32;
-const elXokasWPA = `xokas-sounds-table-wpa-${version}`
+const version = 33;
+const elXokasWPA = `xokas-sounds-table-wpa-${version}`;
 const assets = [
   "/",
   "./index.html",
@@ -92,32 +92,34 @@ const assets = [
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/voy-a-cervezas-aaa.mp3",
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/ya-no-puedo-mas.mp3",
   "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pezzimo-criterio.mp3",
-  "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pido-a-una-puta.mp3"
-]
+  "https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/pido-a-una-puta.mp3",
+];
 
-self.addEventListener("install", installEvent => {
+self.addEventListener("install", (installEvent) => {
   installEvent.waitUntil(
-    caches.open(elXokasWPA).then(cache => {
-      cache.addAll(assets)
+    caches.open(elXokasWPA).then((cache) => {
+      cache.addAll(assets);
     })
-  )
-})
+  );
+});
 
-self.addEventListener("fetch", fetchEvent => {
-    fetchEvent.respondWith(
-      caches.match(fetchEvent.request).then(res => {
-        return res || fetch(fetchEvent.request)
-      })
-    )
-})
+self.addEventListener("fetch", (fetchEvent) => {
+  fetchEvent.respondWith(
+    caches.match(fetchEvent.request).then((res) => {
+      return res || fetch(fetchEvent.request);
+    })
+  );
+});
 
-self.addEventListener('activate', function(event) {
+self.addEventListener("activate", function (event) {
   event.waitUntil(
-    caches.keys().then(function(cacheNames) {
+    caches.keys().then(function (cacheNames) {
       return Promise.all(
-        cacheNames.filter(cacheName => cacheName !== elXokasWPA).map(function(cacheName) {
-          return caches.delete(cacheName);
-        })
+        cacheNames
+          .filter((cacheName) => cacheName !== elXokasWPA)
+          .map(function (cacheName) {
+            return caches.delete(cacheName);
+          })
       );
     })
   );
